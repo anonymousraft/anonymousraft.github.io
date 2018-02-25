@@ -2,8 +2,13 @@ body{
   font-family: 'Montserrat', sans-serif;
   font-family: 'Open Sans', sans-serif;
   font-size: 15px;
-  padding: 1%;
+  padding-top: 1%;
 }
 .card-sidebar{
-  height:100vh;
+  height:96vh;
+}
+.profile-img-style{
+  max-width: 30%;
+  Height: auto;
+  margin-top: 12%;
 }
