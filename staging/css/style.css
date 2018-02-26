@@ -5,15 +5,13 @@ body{
   padding-top: 1%;
 }
 .card-sidebar{
-  height:96vh;
   max-width: 100%;
   border-radius: 0px;
   -webkit-box-shadow: 4px 4px 10px 3px rgba(181,181,181,0.91) ;
-box-shadow: 4px 4px 10px 3px rgba(181,181,181,0.91) ;
+  box-shadow: 4px 4px 10px 3px rgba(181,181,181,0.91) ;
 }
 .profile-img-style{
   max-width: 30%;
-  Height: auto;
   margin-top: 10%;
 }
 .title-custom{
